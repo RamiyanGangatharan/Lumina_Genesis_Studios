@@ -35,7 +35,7 @@ Here's how you can contribute:
 4. Make your changes
 5. Commit your changes:
    ```bash
-   git checkout -b feature/YourFeatureName
+   git commit -am 'Add some feature'
    ```
 5. Push to the branch: 
    ```bash
